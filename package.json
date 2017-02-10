@@ -11,10 +11,10 @@
 		"Themes"
 	],
 	"icon": "icon.png",
-	"homepage": "https://github.com/gerane/VSCodeThemes/blob/master/gerane.Theme-Abyss/README.md",
+	"homepage": "https://github.com/lamartire/abyss-customized-theme/README.md",
 	"repository": {
         "type": "git",
-        "url": "https://github.com/gerane/VSCodeThemes.git"
+        "url": "https://github.com/lamartire/abyss-customized-theme"
     },
 	"contributes": {
 		"themes": [
