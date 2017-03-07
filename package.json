@@ -2,7 +2,7 @@
 	"name": "Theme-Abyss-Customized",
 	"displayName": "Abyss Theme Customized",
 	"description": "Customized abyss theme for more comfortable work",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "lamartire",
 	"engines": {
 		"vscode": "^0.10.1"
