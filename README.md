@@ -1,6 +1,9 @@
-This is not original extension.
+Some changes to more comfortable work :cake:
 
-Original links:
+![Abyss customized preview](http://i.imgur.com/DF01boM.png)
 
-* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items/gerane.Theme-Abyss).
-* [GitHub repository](https://github.com/gerane/VSCodeThemes).
+Links:
+
+* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items/lamartire.Theme-Abyss-Customized).
+* [Github repository](https://github.com/lamartire/abyss-customized-theme)
+* [Original theme GitHub repository](https://github.com/gerane/VSCodeThemes).
