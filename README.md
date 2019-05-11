@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/lamartire/abyss-customized-theme.svg)](https://greenkeeper.io/)
+
 Some changes to more comfortable work :cake:
 
 ![Abyss customized preview](http://i.imgur.com/DF01boM.png)
